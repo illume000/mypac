@@ -1,4 +1,4 @@
-var __PROXY__ = "PROXY 127.0.0.1:10888; DIRECT";
+var __PROXY__ = "SOCKS 127.0.0.1:10888; DIRECT";
 var __USERRULES__ = [];
 var __RULES__ = [
   "||edu.cn",
