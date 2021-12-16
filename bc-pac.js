@@ -1,4 +1,5 @@
 var __PROXY__ = "SOCKS5 127.0.0.1:1086; DIRECT";
+
 var __USERRULES__ = [];
 var __RULES__ = [
   "||edu.cn",
